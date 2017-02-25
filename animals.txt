@@ -1,0 +1,13 @@
+Ferret
+Rat
+Mouse
+Fox
+Lion
+Tiger
+Hedgehog
+Wart hog
+Snake
+Finch
+Elk
+Buffalo
+
